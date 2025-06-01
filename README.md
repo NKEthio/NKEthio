@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NKEthio
 - 👀 I’m interested in web-development
 - 🌱 I’m currently learning web-development
-- 💞️ I’m looking to collaborate on health related websites
+- 💞️ I’m looking to collaborate on education and health related websites
 - 📫 How to reach me call me +251929422664
 - 😄 Pronouns: Absolutly he
 - ⚡ Fun fact: I don't like porrage
